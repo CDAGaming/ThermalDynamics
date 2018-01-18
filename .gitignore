@@ -22,6 +22,8 @@ logs/
 mods/
 resourcepacks/
 saves/
+.idea/
+run/
 /options.txt
 
 # External tool builders
